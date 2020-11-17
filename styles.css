@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+}
+.header{
+    text-align: center;
+}
+.flex{
+    width: 100%;
+    display: flex;
+    justify-items: center;
+    margin: 10px 20px
+}
+.content{
+    width: 100%;
+    
+}
+img{
+    margin-top: 15px;
+    border-style: solid;
+    border-color: black;
+}
